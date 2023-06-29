@@ -12,6 +12,22 @@ Pangenomics has applications in various fields, including agriculture, medicine,
 
 Overall, pangenomics provides a comprehensive perspective on the genetic diversity and complexity within a species, going beyond the analysis of individual genomes.
 
-## TODO
+## Resources
 
-Kevin: What do you want to do with pangenomes? How does that translate to a query of the pangenome?
+1. [human-pangenomics/hpp_pangenome_resources](https://github.com/human-pangenomics/hpp_pangenome_resources)
+2. *ADD MORE HERE*
+
+## Goals: 
+
+What do you want to do with pangenomes? How does that translate to a query of the pangenome?
+
+Arya
+
+1. We would like to use the pangenome to acquire haplotypes. Our hope is that each haplotype can be used in a genome-wide association study or fine-mapping method.
+
+Mike
+
+1. Detect somatic structural variants with high sensitivity and specificity
+2. Accurately measure expression of repetitive and polymorphic transposable elements
+
+Would like to benchmark both of these
