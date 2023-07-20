@@ -35,3 +35,15 @@ Mike
    This would involve using a leave one out approach for all genome assemblies in Pangenomes and building a graph with the rest
 
 Would like to benchmark both of these
+
+
+Aarushi
+
+1.  Detect somatic structural variants with high sensitivity and specificity
+2.  Better visualization of Pangenomes
+3.  Benchmarking through Pangenomes
+
+
+Kyle
+
+1. Visualization tool for Pangenomes
