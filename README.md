@@ -25,7 +25,7 @@ Arya
 
 1. We would like to use the pangenome to acquire haplotypes. Our hope is that each haplotype can be used in a genome-wide association study or fine-mapping method.
    The approach would be to either use an existing Fine Mapping tool to identify Haplotypes and use those Haplotypes for Structural Variant Discovery
-   Or either create a workflow for tagging Haplotypes in Pangenomes
+   or either create a workflow for tagging Haplotypes in Pangenomes
 
 Mike
 
