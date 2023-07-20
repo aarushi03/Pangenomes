@@ -24,10 +24,14 @@ What do you want to do with pangenomes? How does that translate to a query of th
 Arya
 
 1. We would like to use the pangenome to acquire haplotypes. Our hope is that each haplotype can be used in a genome-wide association study or fine-mapping method.
+   The approach would be to either use an existing Fine Mapping tool to identify Haplotypes and use those Haplotypes for Structural Variant Discovery
+   Or either create a workflow for tagging Haplotypes in Pangenomes
 
 Mike
 
 1. Detect somatic structural variants with high sensitivity and specificity
 2. Accurately measure expression of repetitive and polymorphic transposable elements
+3. Build an automated workflow for benchmarking through Pangenome dataset
+   This would involve using a leave one out approach for all genome assemblies in Pangenomes and building a graph with the rest
 
 Would like to benchmark both of these
